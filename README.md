@@ -1,7 +1,7 @@
 # Hobbies List
-*Author: Jeet Soni
+*Author: Jeet Soni*
 
-*Date: 08/12/2023
+*Date: 08/12/2023*
 
 [![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
 
